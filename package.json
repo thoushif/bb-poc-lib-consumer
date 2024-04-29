@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@azure/functions": "^4.0.0",
-    "third-party-provider": "file:../bb-poc-lib"
+    "third-party-provider": "^1.0.4"
   },
   "devDependencies": {
     "@types/node": "18.x",
